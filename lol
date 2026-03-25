@@ -1,41 +1,5 @@
 # moja-strona-internetowa
 strona z efektem trzęsienia ekranu
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-body { background: black; color: green; }
-</style>
-</head>
-
-<body>
-
-<h1>Kliknij mnie</h1>
-
-<script>
-document.querySelector("h1").onclick = function() {
-    alert("Kliknąłeś!");
-}
-</script>
-
-</body>
-</html>
-
-Jeśli chcesz, mogę Ci zrobić:
-👉 stronę HTML z efektem „trzęsienia ekranu” (takim jak chciałeś wcześniej 😈)
-
-a jak zrobic strone z tym scriptem
-
-Spoko, pokażę Ci najprostszy sposób krok po kroku, żeby zrobić stronę z takim skryptem 😄
-
-🌐 1️⃣ Utwórz plik HTML
-Otwórz Visual Studio Code
-Kliknij New File
-Zapisz jako:
-index.html
-🧾 2️⃣ Wklej kod strony
-
-To jest gotowa strona z efektem „trzęsienia” po kliknięciu 👇
 
 <!DOCTYPE html>
 <html>
